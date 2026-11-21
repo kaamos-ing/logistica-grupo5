@@ -1,0 +1,54 @@
+[
+  {
+    "pantalla": "Inicio",
+    "errores": []
+  },
+  {
+    "pantalla": "01 · Duración y desempeño",
+    "errores": []
+  },
+  {
+    "pantalla": "02 · Rutas y escenarios de flota",
+    "errores": []
+  },
+  {
+    "pantalla": "03 · Cargas prioritarias",
+    "errores": []
+  },
+  {
+    "pantalla": "04 · Demanda y capacidad",
+    "errores": []
+  },
+  {
+    "pantalla": "Datos y reproducibilidad",
+    "errores": []
+  },
+  {
+    "pantalla": "Predicción XGBoost",
+    "errores": []
+  },
+  {
+    "pantalla": "Ruteo capacidad infactible",
+    "errores": []
+  },
+  {
+    "pantalla": "Ruteo capacidad restaurada",
+    "errores": []
+  },
+  {
+    "pantalla": "Predicción Random Forest",
+    "errores": []
+  },
+  {
+    "pantalla": "Predicción Ridge",
+    "errores": []
+  },
+  {
+    "pantalla": "Escenario de capacidad",
+    "errores": []
+  },
+  {
+    "pantalla": "Navegación desde tarjeta",
+    "errores": []
+  }
+]
