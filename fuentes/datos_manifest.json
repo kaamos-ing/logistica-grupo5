@@ -1,0 +1,62 @@
+[
+  {
+    "file": "trucks.csv",
+    "bytes": 11213,
+    "sha256": "9e85ead113c55e87a9de0894d87133c5adc3ac584fa5cbf5452703c3587ce14f",
+    "same_as_old_zip": true
+  },
+  {
+    "file": "trips.csv",
+    "bytes": 8362306,
+    "sha256": "e2bb4dfddc910632fb6a3c823f23c1ee18815f7257d32e850a0ecfe6f7ecb5fb",
+    "same_as_old_zip": true
+  },
+  {
+    "file": "loads.csv",
+    "bytes": 8384050,
+    "sha256": "ccfab642836b95008931d2f281c9ad98bb72c1703cf09688f0ee5a7a9ec0d15c",
+    "same_as_old_zip": true
+  },
+  {
+    "file": "routes.csv",
+    "bytes": 3075,
+    "sha256": "88fe3e502c43b64829f1f4b18fd6d0cd2b32338d1805e7f9c210fdf416decac2",
+    "same_as_old_zip": true
+  },
+  {
+    "file": "delivery_events.csv",
+    "bytes": 22240101,
+    "sha256": "4bd6ad107a7c1169d60bde8b80c1bc1214b6c293250b0b319ad984eea4dadcbe",
+    "same_as_old_zip": true
+  },
+  {
+    "file": "facilities.csv",
+    "bytes": 4323,
+    "sha256": "6aafd0462ab902bb5e1345d91f127928cf030856e9cc6b97380dc7f30b1f4fc9",
+    "same_as_old_zip": true
+  },
+  {
+    "file": "drivers.csv",
+    "bytes": 13009,
+    "sha256": "65eeec513e3be1115834e865dbd4374364b9ee647363f5f14e467a22b3aec28d",
+    "same_as_old_zip": true
+  },
+  {
+    "file": "driver_monthly_metrics.csv",
+    "bytes": 265289,
+    "sha256": "61d3faf44fa2608fc0c2552a7566203771e3821eb54c9ad611eeda03b85ac760",
+    "same_as_old_zip": null
+  },
+  {
+    "file": "truck_utilization_metrics.csv",
+    "bytes": 201613,
+    "sha256": "3b315ad5d4d20db6d2122a62dc68cadd8be4a9b4e9a33dda40055cee87c664ee",
+    "same_as_old_zip": null
+  },
+  {
+    "file": "trailers.csv",
+    "bytes": 14367,
+    "sha256": "126db2733f0f1c0c5703e1f9641d92d616c3a86b7cce247f87ac666fc93589b2",
+    "same_as_old_zip": null
+  }
+]
