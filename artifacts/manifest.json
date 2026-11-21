@@ -1,0 +1,63 @@
+{
+  "dataset": "https://www.kaggle.com/datasets/yogape/logistics-operations-database",
+  "tables": {
+    "trucks": {
+      "filas": 120,
+      "columnas": 11
+    },
+    "trips": {
+      "filas": 85410,
+      "columnas": 12
+    },
+    "loads": {
+      "filas": 85410,
+      "columnas": 12
+    },
+    "routes": {
+      "filas": 58,
+      "columnas": 9
+    },
+    "delivery_events": {
+      "filas": 170820,
+      "columnas": 11
+    },
+    "facilities": {
+      "filas": 50,
+      "columnas": 9
+    },
+    "driver_monthly_metrics": {
+      "filas": 4464,
+      "columnas": 9
+    },
+    "truck_utilization_metrics": {
+      "filas": 3312,
+      "columnas": 10
+    },
+    "trailers": {
+      "filas": 180,
+      "columnas": 9
+    }
+  },
+  "versions": {
+    "streamlit": "1.67.0",
+    "pandas": "2.2.3",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.6.1",
+    "statsmodels": "0.14.5",
+    "xgboost": "3.0.2",
+    "plotly": "7.1.0",
+    "joblib": "1.6.0"
+  },
+  "files": {
+    "trucks.csv": "9e85ead113c55e87a9de0894d87133c5adc3ac584fa5cbf5452703c3587ce14f",
+    "trips.csv": "e2bb4dfddc910632fb6a3c823f23c1ee18815f7257d32e850a0ecfe6f7ecb5fb",
+    "loads.csv": "ccfab642836b95008931d2f281c9ad98bb72c1703cf09688f0ee5a7a9ec0d15c",
+    "routes.csv": "88fe3e502c43b64829f1f4b18fd6d0cd2b32338d1805e7f9c210fdf416decac2",
+    "delivery_events.csv": "4bd6ad107a7c1169d60bde8b80c1bc1214b6c293250b0b319ad984eea4dadcbe",
+    "facilities.csv": "6aafd0462ab902bb5e1345d91f127928cf030856e9cc6b97380dc7f30b1f4fc9",
+    "driver_monthly_metrics.csv": "61d3faf44fa2608fc0c2552a7566203771e3821eb54c9ad611eeda03b85ac760",
+    "truck_utilization_metrics.csv": "3b315ad5d4d20db6d2122a62dc68cadd8be4a9b4e9a33dda40055cee87c664ee",
+    "trailers.csv": "126db2733f0f1c0c5703e1f9641d92d616c3a86b7cce247f87ac666fc93589b2"
+  }
+}
